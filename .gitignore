@@ -1,0 +1,30 @@
+ Node.js
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# macOS
+.DS_Store
+
+# Editor / IDE
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Compiled output
+/dist/
+/build/
+/out/
+/.next/
+
+# Dependency lock files
+package-lock.json
+yarn.lock
+
+# Logs and debug data
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+/debug.log
